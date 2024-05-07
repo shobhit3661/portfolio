@@ -1,0 +1,8 @@
+.profiles {
+  margin: 0;
+  display: inline-flex;
+}
+
+.contact-info a {
+  margin: 0 6px 0 6px;
+}

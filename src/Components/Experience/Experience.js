@@ -9,7 +9,7 @@ export default function Experience() {
           <h1>Work Experience</h1>
 
           <div className="job">
-            <h2>Software Developer, Nagarro</h2>
+            <h3>Software Developer, Nagarro</h3>
             <p>
               <strong>Duration:</strong> Dec 2021 – Ongoing
             </p>
@@ -41,9 +41,9 @@ export default function Experience() {
           </div>
 
           <div className="job">
-            <h2>Associate Programmer Analyst, Cognizant</h2>
+            <h3>Associate Programmer Analyst, Cognizant</h3>
             <p>
-              <strong>Duration:</strong> JULY 2021 – NOV 2021
+              <strong>Duration:</strong> July 2021 – Nov 2021
             </p>
             <p>
               <strong>Responsibilities:</strong>

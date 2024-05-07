@@ -1,8 +1,8 @@
 import "./App.css";
-import ContactDetails from "./Components/ContactDetails";
+import ContactDetails from "./Components/ContactDetails/ContactDetails";
 import Experience from "./Components/Experience/Experience";
 import Home from "./Components/Home/Home";
-import Projects from "./Components/Projects";
+import Projects from "./Components/Projects/Projects";
 
 function App() {
   return (
