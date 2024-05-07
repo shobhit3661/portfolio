@@ -1,6 +1,6 @@
 import "./App.css";
 import ContactDetails from "./Components/ContactDetails";
-import Experience from "./Components/Experience";
+import Experience from "./Components/Experience/Experience";
 import Home from "./Components/Home/Home";
 import Projects from "./Components/Projects";
 

@@ -4,7 +4,7 @@ import "./Home.css";
 export default function Home() {
   return (
     <>
-      <div className="homeClass">
+      <div className="container">
         <div className="background">
           <img
             className="backgroundImage"
