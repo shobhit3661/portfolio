@@ -5,6 +5,12 @@
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .experience {
+    width: 90% !important;
+    max-width: 90% !important;
+  }
+}
 .experience {
   padding: 20px;
   max-width: 50%;

@@ -15,6 +15,13 @@
 .link-button:hover {
   color: darkblue;
 }
+
+@media (max-width: 768px) {
+  .profiles {
+    width: 90%;
+    display: inline-flex;
+  }
+}
 .profiles {
   margin: 0;
   display: inline-flex;
